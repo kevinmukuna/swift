@@ -24,6 +24,5 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys '7463 A81A 4B2E EA1B 5
 
 gpg --verify swift-5.3.3-RELEASE-ubuntu20.04.tar.gz{.sig,}
 
- tar -xvzf swift-5.6.1-RELEASE-ubuntu18.04.tar.gz -C ~
  
  
